@@ -1,0 +1,25 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "first nodejs app to test on my server",
+  "main": "index.js",
+  "dependencies": {
+    "forever-monitor": "^1.7.1",
+    "formidable": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo test command script",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yocomando/nodeTest.git"
+  },
+  "author": "Chavet Yoann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yocomando/nodeTest/issues"
+  },
+  "homepage": "https://github.com/yocomando/nodeTest#readme"
+}
